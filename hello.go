@@ -10,4 +10,5 @@ import (
 func main() {
 	fmt.Println(reverse.String("Hello"), reverse.Int(24601))
 	fmt.Println(convert.ConvertStrToInt("12345"))
+	fmt.Println(convert.ConvertStrToIntPlus("12345"))
 }
