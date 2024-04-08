@@ -1,2 +1,4 @@
+github.com/narisada014/go_multi_module_release_management/print_int v0.0.1 h1:OoHKAUUQmRSTr05LIFC9TkDVRSgCMS1d2qTUwjyBuXE=
+github.com/narisada014/go_multi_module_release_management/print_int v0.0.1/go.mod h1:q5Cy6HoGaG79DNngNQCA1fUI9C97WGK0nCT5oLAnvSU=
 golang.org/x/example/hello v0.0.0-20240205180059-32022caedd6a h1:lnHwduM5X5Fb0YnIPyjyGzRY88cc0Fo6xTgaWDX2c7Q=
 golang.org/x/example/hello v0.0.0-20240205180059-32022caedd6a/go.mod h1:UhUKOXx5fMcLZxwL20DUrWWBBoRYG9Jvc8FiwZhRHCI=
