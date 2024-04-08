@@ -1,4 +1,4 @@
-module example.com/priont_int
+module github.com/narisada014/go_multi_module_release_management/print_int
 
 go 1.22.2
 
